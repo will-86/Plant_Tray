@@ -1,10 +1,10 @@
 // Dimensions
 trayLength = 210;
 trayWidth = 75;
-trayHeight = 2;
+trayHeight = 1;
 
-wallHeight = 20;
-wallDepth = 2;
+wallHeight = 10;
+wallDepth = 1;
 
 // Model
 // Tray Base
